@@ -8,5 +8,12 @@
 </head>
 <body>
 
+<form action="http://www.google.co.in" method="get">
+enter username :<input type="text" name="uname"/><br/>
+enter password : <input type="password" name="pwd"/><br/>
+
+<input type="submit" value="go"/>
+</form>
+
 </body>
 </html>
